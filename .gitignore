@@ -1,0 +1,16 @@
+bin/
+obj/
+build-check/
+DualSenseMapper-App/
+release-assets/
+publish/
+.vs/
+
+*.user
+*.suo
+*.cache
+*.pdb
+*.zip
+
+Debug/
+Release/
